@@ -11,7 +11,7 @@
     "iconfont-taro": "./commands/index.js"
   },
   "peerDependencies": {
-    "@tarojs/taro": "^3.0.8"
+    "@tarojs/taro": "^4.1.11"
   },
   "dependencies": {
     "colors": "^1.4.0",
@@ -25,7 +25,7 @@
     "tslib": "^2.3.1"
   },
   "devDependencies": {
-    "@tarojs/taro": "^3.0.5",
+    "@tarojs/taro": "^4.1.11",
     "@types/fs-extra": "^8.0.0",
     "@types/glob": "^7.1.1",
     "@types/minimist": "^1.2.0",
